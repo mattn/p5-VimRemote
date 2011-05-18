@@ -1,0 +1,3 @@
+[submodule "vim-remote"]
+	path = vim-remote
+	url = https://github.com/ynkdir/vim-remote.git
